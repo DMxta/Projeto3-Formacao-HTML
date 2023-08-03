@@ -2,6 +2,8 @@
 
 Projeto/desafio proposto para fixação e para certificar de que realmente aprendemos. Este desafio consiste em treinar com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
 
+Link para visualização do site: https://dmxta.github.io/Projeto3-Formacao-HTML/
+
 Feito com:
  - HTML
  - CSS
