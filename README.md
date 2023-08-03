@@ -1,4 +1,4 @@
-# Projeto 3 da Formaçaão HTML da DIO
+# Projeto 3 da Formação HTML da DIO
 
 Projeto/desafio proposto para fixação e para certificar de que realmente aprendemos. Este desafio consiste em treinar com relação a estrutura do site, e também aplicar conhecimentos adquiridos sobre semântica e acessibilidade.
 
